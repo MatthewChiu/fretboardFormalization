@@ -22,6 +22,6 @@ Additional materials for "Towards a Formalization of Fretboards and Gestural 
 
 ## Balance of effort
 ### Correlation is significant when performance is shifted _back_ one frame
-### When efford is relatively low according to the model, the guitarist takes advantage of it to move their hand
+### When effort is relatively low according to the model, the guitarist takes advantage of it to move their hand
 <img width="1215" height="614" alt="image" src="https://github.com/user-attachments/assets/13c07ba0-d7dd-41e2-a43d-402a89b8784f" />
 
