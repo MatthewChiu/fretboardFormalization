@@ -2,9 +2,9 @@
 Additional materials for "Towards a Formalization of Fretboards and Gestural Effort": Math and Computation in Music, 2026
 
 ## This repo includes
-- References
+- [References](https://github.com/MatthewChiu/fretboardFormalization/blob/main/references.txt)
 - Additional materials (below)
-- Code:
+- [Code](https://github.com/MatthewChiu/fretboardFormalization/blob/main/FretboardGestureAnalysis.ipynb):
   - Humdrum parser
   - Measuring distance
 
