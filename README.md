@@ -4,6 +4,6 @@ Additional materials for "Towards a Formalization of Fretboards and Gestural 
 This repo includes:
 - References
 - Additional materials
-- Code
-- - Humdrum parser
+- Code:
+  - Humdrum parser
   - Measuring distance
