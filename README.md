@@ -21,7 +21,7 @@ Additional materials for "Towards a Formalization of Fretboards and Gestural 
 <img width="468" height="248" alt="image" src="https://github.com/user-attachments/assets/98c81f65-4271-410a-918f-6d8aeb185f51" />
 
 ## Balance of effort
-### Correlation is significant when performance is shifted _back_ one frame
+### Correlation is positive (.482) and significant (.0012) when performance is shifted _back_ one frame. (When adjusting for number of shifts, the adjusted p-value is still significant (using a crude Bonferroni adjustment results in p_adj​≈0.013).
 ### When effort is relatively low according to the model, the guitarist takes advantage of it to move their hand
 <img width="1215" height="614" alt="image" src="https://github.com/user-attachments/assets/13c07ba0-d7dd-41e2-a43d-402a89b8784f" />
 
